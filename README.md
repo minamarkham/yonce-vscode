@@ -59,7 +59,7 @@ Also note the recommended user settings.
 
 ## Installation
 * **Recommended:** This theme is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/search?term=yonce&target=vscode&category=Themes&sortBy=Relevance).
-  - It can be installed by the shortcut <kbd>⌘</kbd><kbd>P</kbd> / <kbd>⌃</kbd><kbd>P</kbd> and typing `ext install yonce theme` or by the shortcut <kbd>⇧</kbd><kbd>⌘</kbd><kbd>X</kbd> and typing `yonce theme`.
+  - It can be installed by the shortcut <kbd>⌘</kbd><kbd>P</kbd> / <kbd>⌃</kbd><kbd>P</kbd> and typing `ext install yonce` or by the shortcut <kbd>⇧</kbd><kbd>⌘</kbd><kbd>X</kbd> and typing `yonce`.
 * **Alternative method:** Clone this repo inside your `.vscode/extensions` folder.
 
 ## Contributing
