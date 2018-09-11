@@ -2,7 +2,7 @@
 
 <div align="center" style="text-align: center;">
 
-![logo](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/logotype.png)
+![logo](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/logotype.png)
 
 A Queen Bey-inspired theme for Visual Studio Code.
 
@@ -10,8 +10,8 @@ A Queen Bey-inspired theme for Visual Studio Code.
 
 </div>
 
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/editor.png)
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/workbench.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/editor.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/workbench.png)
 > The font in the screenshot is `Dank Mono`. From £40. https://dank.sh
 
 <br>
@@ -19,19 +19,19 @@ A Queen Bey-inspired theme for Visual Studio Code.
 ## Screenshots
 
 #### CSS
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/css.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/css.png)
 
 #### JavaScript/JSX
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/jsx.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/jsx.png)
 
 #### PHP
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/php.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/php.png)
 
 #### Markdown
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/markdown.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/markdown.png)
 
 #### Shell
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/shell.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/images/shell.png)
 
 _You can test various syntax highlighting in this repo: [https://github.com/uloco/syntax-highlighting-samples](https://github.com/uloco/syntax-highlighting-samples)_
 
