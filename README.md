@@ -1,8 +1,8 @@
 <br>
 
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
 
-![logo](./assets/logotype.png)
+![logo](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/logotype.png)
 
 A Queen Bey-inspired theme for Visual Studio Code.
 
@@ -10,8 +10,8 @@ A Queen Bey-inspired theme for Visual Studio Code.
 
 </div>
 
-![theme preview](./assets/editor.png)
-![theme preview](./assets/workbench.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/editor.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/workbench.png)
 > The font in the screenshot is `Dank Mono`. From £40. https://dank.sh
 
 <br>
@@ -19,19 +19,19 @@ A Queen Bey-inspired theme for Visual Studio Code.
 ## Screenshots
 
 #### CSS
-![theme preview](./assets/css.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/css.png)
 
 #### JavaScript/JSX
-![theme preview](./assets/jsx.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/jsx.png)
 
 #### PHP
-![theme preview](./assets/php.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/php.png)
 
 #### Markdown
-![theme preview](./assets/markdown.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/markdown.png)
 
 #### Shell
-![theme preview](./assets/shell.png)
+![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-vscode/master/assets/shell.png)
 
 _You can test various syntax highlighting in this repo: [https://github.com/uloco/syntax-highlighting-samples](https://github.com/uloco/syntax-highlighting-samples)_
 
@@ -70,6 +70,6 @@ Love this theme? Put some respeck on my check. Or [pay me in cupcakes](https://c
 
 ## License
 
-This theme is released under the [MIT License](https://github.com/minamarkham/yonce-vscode/blob/master/license.md).
+This theme is released under the [MIT License](https://github.com/minamarkham/yonce-vscode/blob/master/LICENSE).
 
 Designed with ❤️ by **[Mina](https://github.com/minamarkham)**

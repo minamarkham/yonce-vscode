@@ -1,14 +1,14 @@
 {
     "name": "yonce-theme",
-    "displayName": "Yoncé",
-    "description": "Vibrant syntax theme on a dark, flat UI. Queen Bey-inspired, for Visual Studio Code.",
+    "displayName": "Yonce",
+    "description": "Vibrant syntax theme on a dark, flat UI. Queen Bey-inspired. For Visual Studio Code.",
     "version": "0.0.1",
     "publisher": "minamarkham",
     "author": {
         "name": "Mina Markham",
         "url": "https://github.com/minamarkham"
     },
-	"icon": "./assets/logo.png",
+	"icon": "assets/logo.png",
 	"preview": true,
 	"galleryBanner": {
 		"color": "#1c1c1c",
@@ -30,15 +30,11 @@
         "Themes"
     ],
 	"keywords": [
-		"color",
 		"theme",
 		"color-theme",
 		"dark",
 		"flat",
-        "vibrant",
-        "operator",
-        "yonce",
-        "yonce theme"
+        "vibrant"
 	],
     "contributes": {
         "themes": [
