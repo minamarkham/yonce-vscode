@@ -6,7 +6,7 @@
 
 A Queen Bey-inspired theme for Visual Studio Code.
 
-[![vscode](https://img.shields.io/badge/vscode-v1.27+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_27) [![made for the beyhive](https://img.shields.io/badge/made%20for-the%20beyhive-1c1c1c.svg?&style=for-the-badge)](https://mina.codes/for-the-beyhive)
+[![vscode](https://img.shields.io/badge/vscode-v1.27+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_27)
 
 </div>
 
