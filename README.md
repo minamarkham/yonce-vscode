@@ -6,7 +6,7 @@
 
 A Queen Bey-inspired theme for Visual Studio Code.
 
-[![vscode](https://img.shields.io/badge/vscode-v1.27+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_27)
+[![vscode](https://img.shields.io/badge/vscode-v1.27+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_27) <a href="https://www.patreon.com/minamarkham"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="120"></a>
 
 </div>
 
